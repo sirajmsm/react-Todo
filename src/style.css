@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+.myStyle{
+  text-decoration: line-through;
+  color:red;
+}
+.toDo{
+  margin:15px;
+}
+.toDoList{
+  margin:20px;
+}
